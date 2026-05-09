@@ -1,0 +1,10 @@
+{
+  "model": "multiframe",
+  "psnr_mean": 30.962151182812054,
+  "psnr_std": 0.6400673110229463,
+  "ssim_mean": 0.7328067032128476,
+  "ssim_std": 0.022470962252233242,
+  "temporal_consistency": 0.004574249552873274,
+  "n_frames_evaluated": 2100,
+  "n_sequences_evaluated": 300
+}

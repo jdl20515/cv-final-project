@@ -1,0 +1,10 @@
+{
+  "model": "flow_warp",
+  "psnr_mean": 31.358957774766687,
+  "psnr_std": 0.5673790294087054,
+  "ssim_mean": 0.7445311515954975,
+  "ssim_std": 0.022158666054538364,
+  "temporal_consistency": 0.0032036386907566337,
+  "n_frames_evaluated": 2100,
+  "n_sequences_evaluated": 300
+}

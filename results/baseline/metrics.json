@@ -1,0 +1,10 @@
+{
+  "model": "baseline",
+  "psnr_mean": 31.104115206802174,
+  "psnr_std": 0.6311429627285171,
+  "ssim_mean": 0.7420529916730174,
+  "ssim_std": 0.022134464360048338,
+  "temporal_consistency": 0.003521158896231403,
+  "n_frames_evaluated": 2100,
+  "n_sequences_evaluated": 300
+}

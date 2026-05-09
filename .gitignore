@@ -1,0 +1,24 @@
+# Data (too large for git)
+data/
+
+# Checkpoints (too large for git)
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorBoard logs
+results/logs/
+
+# Per-model evaluation outputs (videos, per-sequence dirs)
+results/*/seq_*/
+
+# IDE
+.vscode/
+.idea/

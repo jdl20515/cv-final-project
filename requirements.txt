@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision
+pillow
+numpy
+scipy
+scikit-image
+tqdm
+pyyaml
+matplotlib
+tensorboard
+opencv-python
+lpips

@@ -1,0 +1,10 @@
+{
+  "model": "temporal_loss",
+  "psnr_mean": 31.138888222140306,
+  "psnr_std": 0.6227410070939648,
+  "ssim_mean": 0.7430277825222225,
+  "ssim_std": 0.022180058443737456,
+  "temporal_consistency": 0.0033164645141611497,
+  "n_frames_evaluated": 2100,
+  "n_sequences_evaluated": 300
+}

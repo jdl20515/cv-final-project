@@ -1,0 +1,25 @@
+data:
+  n_frames: 7
+  num_workers: 0
+  patch_size: 64
+  root: data/vimeo_septuplet
+  scale: 2
+loss:
+  perceptual_weight: 0.0
+  pixel_type: l1
+  pixel_weight: 1.0
+  temporal_weight: 0.5
+model:
+  name: temporal_loss
+  params:
+    n_channels: 3
+    n_features: 64
+    scale: 2
+training:
+  batch_size: 16
+  epochs: 100
+  lr: 0.001
+  lr_gamma: 0.5
+  lr_step: 30
+  save_every: 10
+  weight_decay: 0

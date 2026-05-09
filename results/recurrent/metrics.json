@@ -1,0 +1,10 @@
+{
+  "model": "recurrent",
+  "psnr_mean": 32.36299221869339,
+  "psnr_std": 0.5155035799774704,
+  "ssim_mean": 0.7525073482511278,
+  "ssim_std": 0.023733230636762116,
+  "temporal_consistency": 0.002071490188439687,
+  "n_frames_evaluated": 2100,
+  "n_sequences_evaluated": 300
+}
